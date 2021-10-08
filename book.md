@@ -7,3 +7,5 @@
 - more excitement
 
 - less excitement, or taking it easy!
+
+- This is great git practice.
