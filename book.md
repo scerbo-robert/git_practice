@@ -6,4 +6,4 @@
 
 - more excitement
 
-- less excitement, this could mean old age
+- less excitement, or taking it easy!
